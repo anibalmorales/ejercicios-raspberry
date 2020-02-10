@@ -25,4 +25,3 @@ while True:
     time.sleep(ESPERA)
     GPIO.output(PIN, GPIO.LOW)
     time.sleep(ESPERA)
-GPIO.cleanup()
